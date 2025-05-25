@@ -8,7 +8,7 @@ function App() {
     <>
       <Header />
       <div className='w-screen h-screen'>
-		<div className='xl:w-6/12 h-screen bg-emerald-300 mx-auto'>
+		<div className='xl:w-6/12 h-screen bg-sky-100 mx-auto'>
 			<Homepage />
 		</div>
       </div>
